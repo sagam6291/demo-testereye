@@ -1,0 +1,19 @@
+{
+  "project_id": "proj_ab98cdb9954e",
+  "name": "demo testereye",
+  "description": "",
+  "os": "mac",
+  "os_version": "macos-monterey",
+  "default_browser": "chrome",
+  "test_case_count": 1,
+  "pushed_at": "2026-05-28T10:15:00.718011",
+  "test_cases": [
+    {
+      "test_case_id": "tc_bed0ebcb5b76",
+      "title": "vayuyantra - details",
+      "flow_name": "test_vayuyantra_contact_us_form_submission_20260528_100059.py",
+      "browser": "chrome",
+      "file": "tests/vayuyantra_-_details.py"
+    }
+  ]
+}
